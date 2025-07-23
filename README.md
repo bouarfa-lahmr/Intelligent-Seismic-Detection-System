@@ -24,6 +24,20 @@ This project involves the creation of an intelligent seismic detection system us
 4. **Real-time Monitoring**:
    - The system continuously monitors seismic activity, providing real-time responses to potential threats.
 
+## 🛠️ Project Assembly – All Components
+
+This is the montage of the project with all components used:
+
+![Project Assembly](montage_projet.PNG)
+
+
+## 🧩 Logical Diagram of the Project
+
+This is the logical diagram representing how the system components interact:
+
+![Logical Diagram](logigramme_projet.PNG)
+
+
 ## 📊 Project Workflow
 
 ### 1. Data Collection and Sensor Integration
